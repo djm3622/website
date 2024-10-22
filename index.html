@@ -5,51 +5,119 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Welcome to my personal website built with GitHub Pages">
     <title>My GitHub Pages Site</title>
+
+    <!-- Google Fonts for Modern Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Montserrat:wght@700&display=swap" rel="stylesheet">
+
+    <!-- Normalize.css to standardize styles -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+
+    <!-- Custom CSS -->
     <style>
+        /* General Styles */
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
+            line-height: 1.6;
         }
 
+        /* Header and Navigation Styles */
         header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 0;
+            background-color: #007BFF;
+            color: #fff;
+            padding: 20px 0;
             text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2.5rem;
+            margin: 0;
         }
 
         nav {
+            margin: 20px 0;
             text-align: center;
-            margin-bottom: 20px;
         }
 
         nav a {
             margin: 0 15px;
+            color: #007BFF;
             text-decoration: none;
-            color: #4CAF50;
             font-weight: bold;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: background 0.3s ease, color 0.3s ease;
         }
 
+        nav a:hover {
+            background-color: #007BFF;
+            color: #fff;
+        }
+
+        /* Section Styles */
         section {
-            padding: 20px;
+            padding: 40px 20px;
             margin: 20px auto;
-            max-width: 800px;
-            background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 1000px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
-        footer {
+        section h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2rem;
+            margin-bottom: 20px;
             text-align: center;
-            padding: 20px;
-            background-color: #4CAF50;
+            color: #333;
+        }
+
+        section p {
+            text-align: center;
+            font-size: 1.1rem;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        ul li a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+            font-size: 1.1rem;
+            transition: color 0.3s ease;
+        }
+
+        ul li a:hover {
+            color: #0056b3;
+        }
+
+        /* Footer Styles */
+        footer {
+            background-color: #007BFF;
             color: white;
+            text-align: center;
+            padding: 20px 0;
             position: relative;
             bottom: 0;
             width: 100%;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 1rem;
         }
     </style>
 </head>
@@ -57,36 +125,29 @@
 
     <!-- Header -->
     <header>
-        <h1>David Millard</h1>
+        <h1>Welcome to My Website</h1>
     </header>
 
     <!-- Navigation -->
     <nav>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
-        <a href="#research">Research</a>
         <a href="#contact">Contact</a>
     </nav>
 
     <!-- About Section -->
     <section id="about">
         <h2>About Me</h2>
-        <p>...</p>
+        <p>Hello! I'm a software developer passionate about building web applications and exploring new technologies. My main interests include web development, data science, and machine learning.</p>
     </section>
 
     <!-- Projects Section -->
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><strong><a href="">Project 1</a>:</strong>Project</li>
-        </ul>
-    </section>
-
-    <!-- Projects Section -->
-    <section id="research">
-        <h2>Projects</h2>
-        <ul>
-            <li><strong><a href="">Project 1</a>:</strong>Research</li>
+            <li><a href="https://github.com/username/project1">Project 1</a>: A description of the project and its purpose.</li>
+            <li><a href="https://github.com/username/project2">Project 2</a>: Another project with a brief overview of what it does.</li>
+            <li><a href="https://github.com/username/project3">Project 3</a>: A third project you’d like to showcase.</li>
         </ul>
     </section>
 
@@ -95,17 +156,16 @@
         <h2>Contact</h2>
         <p>You can reach me at:</p>
         <ul>
-            <li><a href="">Email</a></li>
-            <li><a href="">Twitter</a></li>
-            <li><a href="">GitHub</a></li>
+            <li><a href="mailto:your-email@example.com">Email</a></li>
+            <li><a href="https://twitter.com/yourhandle">Twitter</a></li>
+            <li><a href="https://github.com/yourusername">GitHub</a></li>
         </ul>
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 | Built with GitHub Pages</p>
+        <p>&copy; 2024 My Website | Built with GitHub Pages</p>
     </footer>
 
 </body>
 </html>
-            
