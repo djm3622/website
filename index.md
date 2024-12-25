@@ -35,7 +35,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="gaussbubble.gif" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 150px; height: 200px;">
+  <img src="gaussbubble.gif" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
     <a href="https://github.com/yourusername/project3"><strong>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
