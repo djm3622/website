@@ -15,7 +15,7 @@ title: David Millard
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <p>Hey!</p>
+    <p>Hey! Rochester Institute of Technology (RIT)</p>
   </div>
   <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
 </div>
