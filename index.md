@@ -7,18 +7,9 @@ title: David Millard
 
 # Research
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse; justify-content: flex-start; text-align: left; margin: 0 auto; width: 100%;">
-  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
-  <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
-    <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
-    <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
-    <p style="margin: 5px 0;">Manuscript in progress.</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse; justify-content: flex-start;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="unet_01_pred_operator_base_conds.gif" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
-  <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
+  <div style="text-align: right; display: flex; flex-direction: column; justify-content: center;">
     <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
