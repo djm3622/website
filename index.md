@@ -10,7 +10,7 @@ title: David Millard
 
 ## Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 100px; height: 100px;">
+  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project1"><strong>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</strong></a>
     <p><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
@@ -19,7 +19,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
-  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 100px; height: 100px;">
+  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project2"><strong>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</strong></a>
     <p><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
@@ -28,7 +28,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 100px; height: 100px;">
+  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project3"><strong>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</strong></a>
     <p><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
