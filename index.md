@@ -5,7 +5,7 @@ title: David Millard
 
 *todo*
 
-# Research
+<h1>Research</h1>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="unet_01_pred_operator_base_conds.gif" alt="Project 2 Thumbnail" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
