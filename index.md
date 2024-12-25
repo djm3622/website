@@ -58,4 +58,4 @@ title: David Millard
 ---
 
 # Contact
-*todo: link to resume, email.*
+Please do not hesitate to reach out to me at [djm3622@rit.edu](mailto:djm3622@rit.edu) with an inquires. Download my resume [here](res/davidmillard_resume.pdf) if you want!
