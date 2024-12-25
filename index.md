@@ -6,7 +6,15 @@ title: David Millard
 *todo*
 
 # Research
-*todo*
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse; justify-content: flex-start; text-align: left; margin: 0 auto; width: 100%;">
+  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
+  <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
+    <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
+    <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
+    <p style="margin: 5px 0;">Manuscript in progress.</p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse; justify-content: flex-start;">
   <img src="unet_01_pred_operator_base_conds.gif" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
@@ -43,12 +51,6 @@ title: David Millard
     <p style="margin: 5px 0;">Manuscript in REU Symposium at IEEE Big Data proceedings.</p>
   </div>
 </div>
-
-# Projects
-Here are some projects I've worked on:
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
 
 # Contact
 *todo: link to resume, email.*
