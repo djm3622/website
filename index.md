@@ -10,10 +10,29 @@ title: David Millard
 
 ## Publications
 Here are some publications I've have been apart of:
-- ![Project 1](cats.png) [Project 1](https://github.com/yourusername/project1)  
-  Description of Project 1.
-- [Paper 2](https://github.com/yourusername/project2)
-- [Paper 3](https://github.com/yourusername/project3)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="cats.png" alt="Project 1 Thumbnail" style="margin-right: 20px;">
+  <div>
+    <a href="https://github.com/yourusername/project1"><strong>Project 1</strong></a>
+    <p>Description of Project 1.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
+  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px;">
+  <div>
+    <a href="https://github.com/yourusername/project2"><strong>Project 2</strong></a>
+    <p>Description of Project 2.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px;">
+  <div>
+    <a href="https://github.com/yourusername/project3"><strong>Project 3</strong></a>
+    <p>Description of Project 3.</p>
+  </div>
+</div>
 
 ## Current
 Here are some papers I am currently apart of:
