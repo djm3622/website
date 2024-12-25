@@ -16,9 +16,9 @@ title: David Millard
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="cond.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 150px;">
-  <div style="text-align: right; display: flex; flex-direction: column; justify-content: center;">
+  <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
     <a href="https://github.com/yourusername/project1"><strong>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
@@ -34,9 +34,9 @@ title: David Millard
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="unet_01_ground_operator.gif" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
-  <div style="text-align: right; display: flex; flex-direction: column; justify-content: center;">
+  <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
     <a href="https://github.com/yourusername/project3"><strong>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
     <p style="margin: 5px 0;">Manuscript in REU Symposium at IEEE Big Data proceedings.</p>
