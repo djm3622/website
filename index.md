@@ -5,7 +5,7 @@ title: David Millard
 
 *todo*
 
-# Research
+<h1><b>Research</b></h1>
 
 ---
 
