@@ -20,8 +20,6 @@ title: David Millard
   <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
 </div>
 
-*todo*
-
 <h1><b>Research</b></h1>
 
 ---
