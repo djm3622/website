@@ -9,7 +9,7 @@ title: David Millard
 
 <div style="display: flex; align-items: stretch; margin-bottom: 20px;">
   <img src="unet_01_pred_operator_base_conds.gif" alt="Project 2 Thumbnail" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
-  <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
+  <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
