@@ -8,9 +8,9 @@ title: David Millard
 # Research
 *todo*
 
-<div style="display: flex; align-items: left; margin-bottom: 20px; flex-direction: row-reverse;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
   <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
-  <div>
+    <div style="text-align: left;">
     <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
