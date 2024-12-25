@@ -16,6 +16,7 @@ title: David Millard
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
     <p>Hey! Rochester Institute of Technology (RIT)</p>
+    <p>Feel free to contact me at [djm3622@rit.edu](mailto:djm3622@rit.edu).</p>
   </div>
   <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
 </div>
@@ -59,7 +60,3 @@ title: David Millard
     <p style="margin: 5px 0;">IEEE Big-Data, 2024</p>
   </div>
 </div>
-
----
-
-Feel free to contact me at [djm3622@rit.edu](mailto:djm3622@rit.edu). Download my resume [here](res/davidmillard_resume.pdf)!
