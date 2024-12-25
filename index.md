@@ -47,7 +47,7 @@ title: David Millard
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project2"><strong>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
-    <p style="margin: 5px 0;">Manuscript in IEEE Big Data proceedings.</p>
+    <p style="margin: 5px 0;">IEEE Big-Data, 2024</p>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ title: David Millard
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project3"><strong>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
-    <p style="margin: 5px 0;">Manuscript in REU Symposium at IEEE Big Data proceedings.</p>
+    <p style="margin: 5px 0;">IEEE Big-Data, 2024</p>
   </div>
 </div>
 
