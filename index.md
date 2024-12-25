@@ -11,7 +11,7 @@ title: David Millard
 ## Publications
 <div style="max-width: 90%; margin: auto;">
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 1 Thumbnail" style="margin-right: 20px; width: 100px; height: 100px;">
+  <img src="cats.png" alt="Project 1 Thumbnail" style="margin-right: 20px; width: 100px; height: 100px; margin-bottom: 20px;"">
   <div>
     <a href="https://github.com/yourusername/project1"><strong>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</strong></a>
     <p><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
