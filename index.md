@@ -8,7 +8,7 @@ title: David Millard
 # Research
 *todo*
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
+<div style="display: flex; align-items: left; margin-bottom: 20px; flex-direction: row-reverse;">
   <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
