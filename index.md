@@ -3,13 +3,13 @@ layout: default
 title: David Millard
 ---
 
-<div style="max-width: 90%; margin: auto;">
 *todo*
 
 # Research
 *todo*
 
 ## Publications
+<div style="max-width: 90%; margin: auto;">
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="cats.png" alt="Project 1 Thumbnail" style="margin-right: 20px; width: 100px; height: 100px;">
   <div>
@@ -17,6 +17,7 @@ title: David Millard
     <p><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
     <p>todo</p>
   </div>
+</div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
@@ -49,5 +50,3 @@ Here are some projects I've worked on:
 
 # Contact
 *todo: link to resume, email.*
-
-</div>
