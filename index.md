@@ -8,7 +8,6 @@ title: David Millard
 # Research
 *todo*
 
-## Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
   <div>
@@ -22,8 +21,8 @@ title: David Millard
   <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project2"><strong>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</strong></a>
-    <p><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
-    <p>IEEE Big Data</p>
+    <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
+    <p style="margin: 5px 0;">IEEE Big Data</p>
   </div>
 </div>
 
@@ -35,10 +34,6 @@ title: David Millard
     <p>REU Symposium at IEEE Big Data</p>
   </div>
 </div>
-
-## Current
-Here are some papers I am currently apart of:
-- [Paper 1](https://github.com/yourusername/project1)
 
 # Projects
 Here are some projects I've worked on:
