@@ -10,7 +10,8 @@ title: David Millard
 
 ## Publications
 Here are some publications I've have been apart of:
-- [Paper 1](https://github.com/yourusername/project1)
+- ![Project 1](cats.png) [Project 1](https://github.com/yourusername/project1)  
+  Description of Project 1.
 - [Paper 2](https://github.com/yourusername/project2)
 - [Paper 3](https://github.com/yourusername/project3)
 
