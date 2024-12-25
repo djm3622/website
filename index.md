@@ -3,6 +3,7 @@ layout: default
 title: David Millard
 ---
 
+<div style="max-width: 90%; margin: auto;">
 *todo*
 
 # Research
@@ -48,3 +49,5 @@ Here are some projects I've worked on:
 
 # Contact
 *todo: link to resume, email.*
+
+</div>
