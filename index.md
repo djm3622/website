@@ -13,13 +13,13 @@ title: David Millard
   gtag('config', 'G-8LYXXJ22PF');
 </script>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
     <p style="margin: 0 0 10px; line-height: 1.6;">I am a double major in Computer Science and Statistics at the Rochester Institute of Technology (RIT). My research interests lie in probabilistic machine learning, multi-modal systems, and numerical weather prediction. Currently, I am working on integrating the extensive literature of probabilistic deep learning and operator learning to generate long-range estimates of partial differential equations (PDEs), with a focus on idealized atmospheric dynamics.</p>
     <p style="margin: 0 0 10px; line-height: 1.6;">I am actively seeking a doctoral program to further broaden my research and contribute to advancements in these fields.</p>
     <p style="margin: 0; line-height: 1.6;">Feel free to contact me at <a href="mailto:djm3622@rit.edu">djm3622@rit.edu</a>.</p>
   </div>
-  <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 40px; object-fit: cover;">
+  <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
 </div>
 
 <h1><b>Research</b></h1>
