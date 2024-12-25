@@ -13,6 +13,13 @@ title: David Millard
   gtag('config', 'G-8LYXXJ22PF');
 </script>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
+    <p>Time Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided DiffusionTime Invariant Operator Guided Diffusion</p>
+  </div>
+  <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
+</div>
+
 *todo*
 
 <h1><b>Research</b></h1>
@@ -20,7 +27,7 @@ title: David Millard
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/unet_01_ground_operator.gif" alt="Project 2 Thumbnail" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/unet_01_ground_operator.gif" alt="Paper 4" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project"><strong>Time Invariant Operator Guided Diffusion</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
@@ -29,7 +36,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/cond.png" alt="Project 3 Thumbnail" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/cond.png" alt="Paper 3" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project1"><strong>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
@@ -38,7 +45,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/pred.gif" alt="Project 2 Thumbnail" style="width: 200px; height: 150px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/pred.gif" alt="Paper 2" style="width: 200px; height: 150px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project2"><strong>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
@@ -47,7 +54,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/gaussbubble_vid.gif" alt="Project 3 Thumbnail" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/gaussbubble_vid.gif" alt="Paper 1" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project3"><strong>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
@@ -57,5 +64,4 @@ title: David Millard
 
 ---
 
-# Contact
 Please do not hesitate to reach out to me at [djm3622@rit.edu](mailto:djm3622@rit.edu) with an inquires. Download my resume [here](res/davidmillard_resume.pdf) if you want!
