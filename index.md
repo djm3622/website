@@ -11,7 +11,7 @@ title: David Millard
 ## Publications
 Here are some publications I've have been apart of:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 1 Thumbnail" style="margin-right: 20px;">
+  <img src="cats.png" alt="Project 1 Thumbnail" style="margin-right: 20px; width: 50px; height: 50px;">
   <div>
     <a href="https://github.com/yourusername/project1"><strong>Project 1</strong></a>
     <p>Description of Project 1.</p>
@@ -19,7 +19,7 @@ Here are some publications I've have been apart of:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse;">
-  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px;">
+  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 50px; height: 50px;">
   <div>
     <a href="https://github.com/yourusername/project2"><strong>Project 2</strong></a>
     <p>Description of Project 2.</p>
@@ -27,7 +27,7 @@ Here are some publications I've have been apart of:
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px;">
+  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 50px; height: 50px;">
   <div>
     <a href="https://github.com/yourusername/project3"><strong>Project 3</strong></a>
     <p>Description of Project 3.</p>
