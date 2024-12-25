@@ -9,7 +9,7 @@ title: David Millard
 *todo*
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row-reverse; justify-content: flex-start;">
-  <img src="cats.png" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
+  <img src="unet_01_pred_operator_base_conds.gif" alt="Project 2 Thumbnail" style="margin-left: 20px; width: 200px; height: 200px;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: center;">
     <a href="https://github.com/yourusername/project2"><strong>Time Invariant Operator Guided Diffusion</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
@@ -18,7 +18,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
+  <img src="cond.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project1"><strong>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
@@ -36,7 +36,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="cats.png" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
+  <img src="unet_01_operator_ground.gif" alt="Project 3 Thumbnail" style="margin-right: 20px; width: 200px; height: 200px;">
   <div>
     <a href="https://github.com/yourusername/project3"><strong>Data-Driven Initial Guess Selection for Numerical Weather Prediction Solvers</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
