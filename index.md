@@ -38,7 +38,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/pred.gif" alt="Project 2 Thumbnail" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/pred.gif" alt="Project 2 Thumbnail" style="width: 200px; height: 150px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/yourusername/project2"><strong>Deep Learning for Koopman Operator Estimation in Idealized Atmospheric Dynamics</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault</p>
