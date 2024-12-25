@@ -36,7 +36,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/cond_extra.png" alt="Paper 3" style="width: 200px; height: 150px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/cond_extra.png" alt="Paper 3" style="width: 200px; height: 170px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; justify-content: space-between; width: calc(100% - 220px);">
     <a href="https://github.com/djm3622/precondition-discovery-contextual-bandit"><strong>PEARL: Preconditioner Enhancement through Actor-critic Reinforcement Learning</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Ali Baheri</p>
