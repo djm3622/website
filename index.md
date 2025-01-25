@@ -36,7 +36,7 @@ title: David Millard
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="imgs/ritz.png" alt="Paper 4" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
+  <img src="imgs/ritz.png" alt="Paper 4" style="width: 170px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
     <a href="https://github.com/djm3622/time-invariant-operator"><strong>Deep Ritz Method for Elliptic Differential-Difference Equations</strong></a>
     <p style="margin: 5px 0;">Anton Selitskiy, <b>David Millard</b></p>
