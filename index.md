@@ -15,7 +15,7 @@ title: David Millard
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <p style="margin: 0 0 10px; line-height: 1.6;">I am a double major in Computer Science and Statistics at the Rochester Institute of Technology (RIT). My research interests lie in probabilistic machine learning, multi-modal systems, and numerical weather prediction. Currently, I am working at the intersection of diffusion models and operator learning to generate long-term solution estimates of partial differential equations (PDEs), with a specific focus on atmospheric dynamics.</p>
+    <p style="margin: 0 0 10px; line-height: 1.6;">I am a double major in Computer Science and Statistics at the Rochester Institute of Technology (RIT). My research interests lie in probabilistic machine learning, multimodal systems, and weather forecasting. Currently, I am working at the intersection of diffusion models and weather forecasting to generate lightweight probabilistic modules that enhance the effectiveness of state-of-the-art deterministic models. I am affiliated with Lehigh University (under the advisement of Arielle Carr) and the Safe AI Lab at the Rochester Institute of Technology (under Ali Baheri).</p>
     <p style="margin: 0 0 10px; line-height: 1.6;">I am actively seeking a doctoral program to further broaden my research and contribute to advancements in these fields.</p>
     <p style="margin: 0; line-height: 1.6;">Feel free to contact me at <a href="mailto:djm3622@rit.edu">djm3622@rit.edu</a>.</p>
   </div>
@@ -30,7 +30,7 @@ title: David Millard
   <img src="imgs/unet_01_ground_operator.gif" alt="Paper 5" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
     <a href="https://github.com/djm3622/def-era"><strong>DEF: Diffusion-based Ensemble Forecasting</strong></a>
-    <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Carlos Pereira Frontado</p>
+    <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Carlos Pereira Frontado, Ali Baheri</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
   </div>
 </div>
