@@ -29,7 +29,7 @@ title: David Millard
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="imgs/fourcastnet.png" alt="Paper 6" style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <a href="https://github.com/djm3622/def-era"><strong>FouCGal: A Modern Approach to ERA-5-based Machine Learning Weather Prediction</strong></a>
+    <a href="https://github.com/djm3622/modern_mlwp"><strong>FouCGal: A Modern Approach to ERA-5-based Machine Learning Weather Prediction</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Carlos Pereira Frontado, , Ali Baheri</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
   </div>
