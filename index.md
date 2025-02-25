@@ -15,7 +15,7 @@ title: David Millard
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <p style="margin: 0 0 10px; line-height: 1.6;">I am a double major in Computer Science and Statistics at the Rochester Institute of Technology (RIT). My research interests lie in probabilistic machine learning, multimodal systems, and weather forecasting. Currently, I am working at the intersection of diffusion models and weather forecasting to generate lightweight probabilistic modules that enhance the effectiveness of state-of-the-art deterministic models. I am affiliated with Lehigh University (under the advisement of Arielle Carr) and the Safe AI Lab at the Rochester Institute of Technology (under Ali Baheri).</p>
+    <p style="margin: 0 0 10px; line-height: 1.6;">I am a double major in Computer Science and Statistics at the Rochester Institute of Technology (RIT). My research interests lie in probabilistic machine learning, multimodal systems, and weather forecasting. My current work primarily focuses on scientific-ish ML, efficiency, and probabilistic/determinstic nueral forecasting. I am affiliated with Lehigh University (under the advisement of Arielle Carr) and the Safe AI Lab at the Rochester Institute of Technology (under Ali Baheri).</p>
     <p style="margin: 0; line-height: 1.6;">Feel free to contact me at <a href="mailto:djm3622@rit.edu">djm3622@rit.edu</a>.</p>
   </div>
   <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
