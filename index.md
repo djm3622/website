@@ -46,9 +46,9 @@ title: David Millard
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="imgs/ritz.png" alt="Paper 4" style="width: 200px; height: 170px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <a href="res/Mesh2025_1002.pdf"><strong>Deep Ritz Method for Elliptic Differential-Difference Equations</strong></a>
+    <a href="https://meetings.ams.org/math/spring2025e/meetingapp.cgi/Paper/47716"><strong>Deep Ritz Method for Elliptic Differential-Difference Equations</strong></a>
     <p style="margin: 5px 0;">Anton Selitskiy, <b>David Millard</b></p>
-    <p style="margin: 5px 0;">Preprint.</p>
+    <p style="margin: 5px 0;">AMS Spring Eastern Sectional Meeting</p>
   </div>
 </div>
 
