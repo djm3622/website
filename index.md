@@ -28,7 +28,7 @@ title: David Millard
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="imgs/era5.png" alt="Paper 6" style="width: 200px; height: 80px; margin-right: 20px; object-fit: cover;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <a href="https://github.com/djm3622/modern_mlwp"><strong>A Data-Efficient Approach to ERA5-based Machine Learning Weather Prediction</strong></a>
+    <a href="https://github.com/djm3622/modern_mlwp"><strong>A Data-Efficient Approach to ERA5-based MLWP</strong></a>
     <p style="margin: 5px 0;"><b>David Millard</b>, Arielle Carr, Stephane Gaudreault, Anton Selitskiy, Ali Baheri</p>
     <p style="margin: 5px 0;">Manuscript in progress.</p>
   </div>
