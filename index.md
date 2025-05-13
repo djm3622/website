@@ -15,8 +15,9 @@ title: David Millard
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px;">
   <div style="text-align: left; display: flex; flex-direction: column; width: calc(100% - 220px);">
-    <p style="margin: 0 0 10px; line-height: 1.6;">I am a double major in Computer Science and Statistics at the Rochester Institute of Technology (RIT). My research interests lie in probabilistic machine learning, multimodal systems, and weather forecasting. My current work primarily focuses on scientific-ish ML, efficiency, and probabilistic/determinstic nueral forecasting. I am affiliated with Lehigh University (under the advisement of Arielle Carr) and the Safe AI Lab at the Rochester Institute of Technology (under Ali Baheri).</p>
-    <p style="margin: 0; line-height: 1.6;">Feel free to contact me at <a href="mailto:djm3622@rit.edu">djm3622@rit.edu</a>.</p>
+    <p style="margin: 0 0 10px; line-height: 1.6;">I'm currently a Ph.D. student at the Rochester Institute of Technology, studying Mechanical and Industrial Engineering. My work focuses on probabilistic machine learning, reinforcement learning, and physics-informed neural networks. I’m part of the Safe AI Lab (SAIL), where I’m lucky to be advised by [Ali Baheri](https://alibaheri.github.io/).</p>
+<p style="margin: 0 0 10px; line-height: 1.6;">I also completed my undergraduate studies at RIT, where I majored in Computer Science and Statistics. During that time, I was fortunate to work with several research groups: I collaborated with Lehigh University under the guidance of Arielle Carr, worked in the Safe AI Lab at RIT with Ali Baheri, and contributed to research at Environment and Climate Change Canada under the advisement of Stéphane Gaudreault.</p>
+<p style="margin: 0 0 10px; line-height: 1.6;">Outside of research, I enjoy hanging out with my animals, Didly and Buck, and finding fun ways to stay active. Feel free to contact me at <a href="mailto:djm3622@rit.edu">djm3622@rit.edu</a>.</p>
   </div>
   <img src="imgs/my_pfp.jpg" alt="Profile Picture" style="width: 300px; height: 300px; margin-right: 20px; object-fit: cover;">
 </div>
